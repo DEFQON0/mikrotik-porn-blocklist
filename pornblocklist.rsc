@@ -1,0 +1,11 @@
+/ip dns static remove [find comment="AUTOBLOCK"]
+/ip dns static add name="pornhub.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="xvideos.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="xnxx.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="redtube.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="youporn.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="brazzers.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="spankbang.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="porntrex.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="fapello.com" address=127.0.0.1 comment="AUTOBLOCK"
+/ip dns static add name="rule34.xxx" address=127.0.0.1 comment="AUTOBLOCK"
